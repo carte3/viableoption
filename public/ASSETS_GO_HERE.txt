@@ -1,0 +1,10 @@
+c:\Users\kudzi\Downloads\home.mp4Place your media assets in this /public folder using these exact names:
+
+  LOGOV.png              -> logo (navbar + footer)
+  home.mp4               -> homepage hero background video
+  managing-director.jpg  -> Managing Director portrait (Team page)
+  experience.jpg         -> Expertise page image
+
+NOTE: rename "managing director.jpg" (with a space) to "managing-director.jpg".
+Files in /public are served from the site root, e.g. /LOGOV.png.
+If any asset is missing, the site still renders with a built-in fallback.
